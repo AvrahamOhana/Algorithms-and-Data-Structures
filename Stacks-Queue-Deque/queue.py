@@ -6,14 +6,11 @@ class Queue():
     def isEmpty(self):
         return self.items == []
     
-    def push(self, item):
+    def Enqueue(self, item):
         self.items.insert(0, item)
         
-    def pop(self):
+    def Dequeue(self):
         return self.items.pop()
-    
-    def peek(self):
-        return self.items[-1]
     
     def size(self):
         return len(self.items)
