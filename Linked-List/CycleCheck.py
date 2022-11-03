@@ -1,4 +1,5 @@
 # check is there is a cycle in the kinked list
+# 2 runners at the same course. one is faster then the other.
 def cycle_check(node):
     marker1 = node
     marker2 = node
