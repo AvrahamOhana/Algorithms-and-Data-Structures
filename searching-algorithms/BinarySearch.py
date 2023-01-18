@@ -1,4 +1,4 @@
 # iterative implementation of binary search
 
-def search(input, target):
+def BinarySearch(input, target):
     return 
