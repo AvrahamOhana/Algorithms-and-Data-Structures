@@ -2,7 +2,7 @@
 
 implementing some searching algorythms with time and space complexity
 
-## Big O Notation
+## Big O Notation:
 
 | Algorithm        | Time complexity | Auxiliary Space |
 | ---------------- | --------------- | --------------- |
@@ -11,5 +11,9 @@ implementing some searching algorythms with time and space complexity
 | Jump Search      | O(√n)           | O(1)            |
 | Fibonacci Search | O(log n)        | O(1)            |
 
-- [] to do
-- [] to do
+## To do:
+
+- [ ] Linear Search
+- [ ] Binary Search
+- [ ] Jump Search
+- [ ] Fibonacci Search
