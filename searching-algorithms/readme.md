@@ -6,7 +6,7 @@ implementing some searching algorythms with time and space complexity
 
 | Algorithm        | Time complexity | Auxiliary Space | Status |
 | ---------------- | --------------- | --------------- | ------ |
-| Linear Search    | O(n)            | O(1)            | - [x]  |
-| Binary Search    | O(log n)        | O(1)            | - []   |
-| Jump Search      | O(√n)           | O(1)            | - []   |
-| Fibonacci Search | O(log n)        | O(1)            | - []   |
+| Linear Search    | O(n)            | O(1)            | -[x]   |
+| Binary Search    | O(log n)        | O(1)            | -[]    |
+| Jump Search      | O(√n)           | O(1)            | -[]    |
+| Fibonacci Search | O(log n)        | O(1)            | -[]    |
